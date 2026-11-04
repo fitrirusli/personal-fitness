@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.local/
+.private/
+android/
+ios/
+capacitor.config.*
+package-lock.json
+src/data/foods.json
